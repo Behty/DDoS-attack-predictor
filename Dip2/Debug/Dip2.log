@@ -1,0 +1,11 @@
+﻿Сборка начата 02.02.2016 1:31:32.
+     1>Проект "C:\Users\theru_000\Documents\Visual Studio 2013\Projects\Dip2\Dip2\Dip2.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         E:\Soft\Microsoft Visual Studio Ultimate 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\theru_000\Documents\Visual Studio 2013\Projects\Dip2\Debug\Dip2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\theru_000\Documents\Visual Studio 2013\Projects\Dip2\Debug\Dip2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\theru_000\Documents\Visual Studio 2013\Projects\Dip2\Debug\Dip2.lib" /MACHINE:X86 Debug\Dip2.obj
+         Debug\stdafx.obj
+         Dip2.vcxproj -> C:\Users\theru_000\Documents\Visual Studio 2013\Projects\Dip2\Debug\Dip2.exe
+     1>Сборка проекта "C:\Users\theru_000\Documents\Visual Studio 2013\Projects\Dip2\Dip2\Dip2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.14
